@@ -14,12 +14,6 @@
     "autoload": {
         "psr-4": {"Intersvyaz\\Grid\\": ""}
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://composer.is74.ru"
-        }
-    ],
     "authors": [
         {
             "name": "Vitaliy Potapov",
